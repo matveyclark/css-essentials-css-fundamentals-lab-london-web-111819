@@ -12,3 +12,8 @@ img {
   margin: 0 auto;
 }
 
+nav a {
+  padding: 0 10px;
+  background: grey;
+}
+
