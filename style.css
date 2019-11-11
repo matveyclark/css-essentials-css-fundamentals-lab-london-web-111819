@@ -8,8 +8,8 @@ header {
   text-align: center;
 }
 
-img {
-  margin: 0 auto;
+#featured-property {
+  text-align: center;
 }
 
 nav a {
