@@ -42,3 +42,7 @@ figcaption {
   background: red;
 }
 
+#details {
+  font-size: 0;
+}
+
